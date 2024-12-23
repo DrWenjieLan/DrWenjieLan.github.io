@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Wenjie Lan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wenjie
+last_name: Lan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌼
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,62 +20,61 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student in Stats Department in Duke University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Duke University
+    url: https://scholars.duke.edu/person/Wenjie.Lan
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'wenjielan2022@outlook.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/lan_wenjie1567
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/wenjielannn/?igsh=OWJyaml0Z2FmNXFj
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/YancyLan
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/wenjie-lan-052a7b292
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian time series
+  - Bayesian game
+  - Data Privacy
+  - Quantitative Finance
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+#  - area: PhD Artificial Intelligence
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
+  - area: MS Statistics
+    institution: Duke University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Financial Technology
+    institution: Southwestern University of Finance and Economics
+    date_start: 2020-09-01
+    date_end: 2024-06-01
     summary: |
       GPA: 3.4/4.0
       
@@ -116,43 +115,54 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: R
+        description: ''
+        percent: 60
+        icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 50
         icon: circle-stack
+      - name: C
+        description: ''
+        percent: 40
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: 📘
+      - name: Kpop
         description: ''
         percent: 80
-        icon: camera
+        icon: 💃
+      - name: Dog
+        description: ''
+        percent: 100
+        icon: 🐶
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: Japanese
     percent: 25
+  - name: France
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+<!--
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -179,8 +189,15 @@ awards:
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+-->
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Wenjie Lan** is a Master of Science student in Statistics at Duke University. She holds a Bachelor of Science degree in Financial Technology from the Southwestern University of Finance and Economics. Wenjie's academic and research interests span Bayesian time series analysis, the Bayes-Nash Equilibrium (integrating Bayesian methodology and game theory), and data privacy.
+
+During her undergraduate studies, Wenjie conducted research across two primary tracks. The first focused on applying machine learning and deep learning techniques to assess and predict risk, including credit risk, the probability of financial distress in institutions, and statistical measures such as CoES to identify systemic risks among entities. The second track was more diverse, where she leveraged advanced methodologies to tackle complex problems encountered during internships and project work. Key projects include optimizing bank position management using advanced optimization methods (2023), fine-tuning the FinBERT model for sentiment classification in the stock market (2022), constructing high-frequency factors with signal processing techniques (2024), and developing data privacy solutions for large language models (LLMs) in finance (2024–present).
+
+### Technical Skills：
+- Programming Languages: Python (Pandas, NumPy, Dask, Scikit-learn, PyTorch), R (dplyr, tidyr, tidymodels, sf, shiny), SQL, C++
+- Key Areas of Expertise: Machine Learning, Statistics Analysis, Deep Learning, Signal Processing (for high-frequency factors construction), Optimization
