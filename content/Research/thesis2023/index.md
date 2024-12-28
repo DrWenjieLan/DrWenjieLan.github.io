@@ -60,3 +60,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+Funding: This work was funded by the 2022 SWUFE Undergraduate Academic Elite Program [Project No. XSJY202257]
