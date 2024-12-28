@@ -1,6 +1,6 @@
 ---
 title: A Project on the prediction of systematic risk in stock market based on multibranch LSTM model with multidimensional heterogeneous perspective
-date: 2023-12
+date: 2023-12-01
 external_link: https://github.com/YancyLan/LSTM-multibranch
 tags:
   - Multibranch_LSTM
