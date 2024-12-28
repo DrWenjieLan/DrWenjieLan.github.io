@@ -33,13 +33,7 @@ links:
 - name: Custom Link
   url: ''
 url_pdf: https://translationportal.epo.org/emtp/translate/?ACTION=abstract-retrieval&COUNTRY=CN&ENGINE=google&FORMAT=docdb&KIND=A&LOCALE=en_EP&NUMBER=118799048&SRCLANG=zh&TRGLANG=en
-url_code: ''
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_code: 'https://github.com/YancyLan/Bank-Tansaction-strategy-Optimazation'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
