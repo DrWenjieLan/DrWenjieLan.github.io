@@ -85,7 +85,7 @@ sections:
       title: Research
       filters:
         folders:
-          - Research
+          - publication
         featured_only: False
     design:
       view: article-grid
