@@ -42,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Wenjie. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -56,7 +56,55 @@ locale:
 
 # Site features
 features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
     enable: false
+  repository:
+    url: 'https://github.com/DrWenjieLan/DrWenjieLan.github.io'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
