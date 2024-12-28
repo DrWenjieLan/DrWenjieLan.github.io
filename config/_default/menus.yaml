@@ -11,7 +11,7 @@ main:
     url: '#mission'
     weight: 10
   - name: Research
-    url: /#publication
+    url: /#research
     weight: 11
 #  - name: Talks
 #    url: /#talks
