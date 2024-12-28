@@ -1,5 +1,5 @@
 ---
-title: "An Optimized Position Management Method and System"
+title: "An example preprint / working paper"
 authors:
 - admin
 date: "2024-07-26T00:00:00Z"
@@ -11,7 +11,7 @@ publishDate: "2024-10-18T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["patent"]
+publication_types: ["research"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
