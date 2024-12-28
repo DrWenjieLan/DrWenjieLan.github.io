@@ -10,25 +10,34 @@ appearance:
   font: minimal
   font_size: L
 
+# Appearance
+
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
+
 # SEO
+
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
 
 # Site header
+
 header:
   navbar:
     enable: true
@@ -40,9 +49,10 @@ header:
     highlight_active_link: true
 
 # Site footer
+
 footer:
   copyright:
-    notice: '© {year} Wenjie. This work is licensed under {license}'
+    notice: '© {year} Qiuyi. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -50,11 +60,14 @@ footer:
       allow_commercial: false
 
 # Localization
+
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
+
 features:
   syntax_highlighter:
     theme_light: github-light
@@ -64,7 +77,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/DrWenjieLan/DrWenjieLan.github.io'
+    url: 'https://github.com/DrQiuyiWu/DrQiuyiWu.github.io'
     content_dir: content
     branch: main
   avatar:
