@@ -80,7 +80,7 @@ sections:
       columns: '1'
 
   - block: collection
-    id: research
+    id: Research
     content:
       title: Research
       filters:
