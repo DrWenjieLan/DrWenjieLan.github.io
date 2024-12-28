@@ -30,12 +30,14 @@ marketing:
 header:
   navbar:
     enable: true
+    align: 1
     blox: "navbar"
-    fixed_to_top: true
+    # fixed_to_top: true
+    show_language: false
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Wenjie Lan"
 
 # Site footer
 footer:
