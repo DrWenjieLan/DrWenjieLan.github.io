@@ -6,6 +6,9 @@
 main:
   - name: Bio
     url: /
+    weight: 9
+  - name: Mission
+    url: /#mission
     weight: 10
   - name: Papers
     url: /#papers
