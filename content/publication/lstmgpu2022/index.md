@@ -2,11 +2,11 @@
 title: "An example preprint / working paper"
 authors:
 - admin
-date: "2024-07-26T00:00:00Z"
+date: "2022-08-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-18T00:00:00Z"
+publishDate: "2022-08-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,29 +18,27 @@ publication: ""
 publication_short: ""
 
 abstract: |
-  [patent] Wenjie Lan. 2024. An Optimized Position Management Method and System. CN118799048A, filed July 26, 2024, and published October 18, 2024.   
-  The present invention relates to the technical field of position management, and in particular to an optimal position management method and system, comprising a service end, a management end, and a transaction end. The service end comprises a data acquisition module, an indicator processing module, a transaction strategy generation module, a sending module, a processing module, and a real-time monitoring module. The sending module sends the generated optimal transaction strategy to the management end, which approves it, generates corresponding approval information, and returns it to the service end. The processing module identifies the approval information and approved optimal transaction strategy, sending the strategy to the transaction end, which executes corresponding transactions. The real-time monitoring module monitors the transaction operations in real time and issues an alarm if any irrational operations are detected.
+  This study focuses on predicting the probability of enterprises being categorized as "Special Treatment" (ST) in the next quarter based on historical data. The research aims to enhance financial distress prediction using machine learning and deep learning models. It explores the selection of predictive indicators beyond traditional metrics, incorporating novel features like graphical representations of stock relationships.
+  Key steps includes:Data Preparation: Utilizing financial indicators from CSMAR and stock data from BaoStock, with techniques like ADASYN to handle data imbalance. Model Design: Implementing LSTM and GAT models, leveraging panel data and adjacency matrices constructed from stock industry classifications and cosine similarity measures.Results: Comparing models with and without time-series considerations, highlighting the superior performance of time-series models in prediction accuracy and AUC scores.
+  The study demonstrates that advanced deep learning techniques, particularly multi-layer GAT models, effectively capture complex stock relationships and improve predictive performance, offering valuable insights for financial risk management and early warning systems. Future work will explore unstructured data like sentiment analysis and relational features based on corporate connections.
 
 
 
-# Summary. An optional shortened abstract.
-summary: This invention provides an optimal position management system comprising service, management, and transaction ends, enabling real-time strategy generation, approval, execution, and monitoring to ensure efficient and secure transaction operations with alarm mechanisms for irregularities.
+
 
 tags:
-- Transaction Strategy Optimization; Risk Management
+- Deep learning LSTM+GRU; Risk Management
 
 featured: true
 
 links:
-- name: Custom Link
-  url: ''
-url_pdf: https://translationportal.epo.org/emtp/translate/?ACTION=abstract-retrieval&COUNTRY=CN&ENGINE=google&FORMAT=docdb&KIND=A&LOCALE=en_EP&NUMBER=118799048&SRCLANG=zh&TRGLANG=en
-url_code: 'https://github.com/YancyLan/Bank-Tansaction-strategy-Optimazation'
+url_pdf: https://github.com/YancyLan/LSTM_GRU_ST_Stock_Predict/blob/main/LSTM_GRU.pdf
+url_code: 'https://github.com/YancyLan/LSTM_GRU_ST_Stock_Predict'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Flowchart of the Optimal Position Management System'
+  caption: 'Stock Knowledge Graph'
   focal_point: ""
   preview_only: false
 
