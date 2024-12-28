@@ -5,10 +5,10 @@
 
 main:
   - name: Bio
-    url: /
+    url: '#bio'
     weight: 9
   - name: Mission
-    url: /#mission
+    url: '#mission'
     weight: 10
   - name: Research
     url: /#Research
@@ -16,9 +16,9 @@ main:
 #  - name: Talks
 #    url: /#talks
 #    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
+  # - name: News
+  #   url: /#news
+  #   weight: 13
   - name: Experience
     url: experience/
     weight: 20
