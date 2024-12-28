@@ -47,12 +47,12 @@ sections:
       columns: '1'
 
   - block: collection
-    id: papers
+    id: research
     content:
-      title: Publications
+      title: Research
       filters:
         folders:
-          - publication
+          - Research
         featured_only: False
     design:
       view: article-grid

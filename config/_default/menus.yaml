@@ -10,8 +10,8 @@ main:
   - name: Mission
     url: /#mission
     weight: 10
-  - name: Papers
-    url: /#papers
+  - name: Research
+    url: /#Research
     weight: 11
 #  - name: Talks
 #    url: /#talks

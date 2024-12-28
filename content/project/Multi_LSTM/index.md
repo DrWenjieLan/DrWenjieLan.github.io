@@ -1,11 +1,13 @@
 ---
 title: A Project on the prediction of systematic risk in stock market based on multibranch LSTM model with multidimensional heterogeneous perspective
 date: 2023-12-01
-external_link: https://github.com/YancyLan/LSTM-multibranch
+# external_link: https://github.com/YancyLan/LSTM-multibranch
 tags:
   - Multibranch_LSTM
   - NLP
   - Risk Management
+# url_pdf: https://github.com/YancyLan/LSTM_GRU_ST_Stock_Predict/blob/main/LSTM_GRU.pdf
+url_code: https://github.com/YancyLan/LSTM-multibranch
 ---
 
 This project adopts multi-dimensional, heterogeneous data—covering contagion effects, textual information, and fundamentals—to construct a feature set. Contagion indicators are derived from global market indices, capturing inter-market risk structures and CoES-based correlation vectors. Text features come from A-share financial news, while fundamental indicators encompass macroeconomic, stock market, and foreign exchange data, plus historical systemic risk.
