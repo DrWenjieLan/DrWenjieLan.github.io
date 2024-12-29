@@ -9,22 +9,22 @@ main:
     weight: 10
   - name: Reseach Interest
     url: '#mission'
-    weight: 20
+    weight: 11
   - name: Research
     url: '#research'
-    weight: 30    
+    weight: 15    
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 20
   - name: Education & Work
     url: '#education'
-    weight: 50
+    weight: 25
   - name: Skills
     url: '#skill'
-    weight: 60
+    weight: 30
   - name: Awards
     url: '#awards'
-    weight: 70
+    weight: 35
 #  - name: Teaching
 #    url: teaching/
 #    weight: 40
