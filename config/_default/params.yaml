@@ -54,7 +54,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Qiuyi. This work is licensed under {license}'
+    notice: '© {year} Wenjie. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -79,7 +79,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/DrQiuyiWu/DrQiuyiWu.github.io'
+    url: 'https://github.com/DrWenjieLan/DrWenjieLan.github.io'
     content_dir: content
     branch: main
   avatar:
