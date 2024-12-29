@@ -41,7 +41,9 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
     show_logo: true
     show_language: false
     show_day_night: true
