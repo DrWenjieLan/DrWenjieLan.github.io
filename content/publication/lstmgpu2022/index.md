@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Prediction of Enterprise ST Based on LSTM+GRU"
 authors:
 - admin
 date: "2022-08-22T00:00:00Z"
@@ -22,12 +22,15 @@ abstract: |
   Key steps includes:Data Preparation: Utilizing financial indicators from CSMAR and stock data from BaoStock, with techniques like ADASYN to handle data imbalance. Model Design: Implementing LSTM and GAT models, leveraging panel data and adjacency matrices constructed from stock industry classifications and cosine similarity measures.Results: Comparing models with and without time-series considerations, highlighting the superior performance of time-series models in prediction accuracy and AUC scores.
   The study demonstrates that advanced deep learning techniques, particularly multi-layer GAT models, effectively capture complex stock relationships and improve predictive performance, offering valuable insights for financial risk management and early warning systems. Future work will explore unstructured data like sentiment analysis and relational features based on corporate connections.
 
-
+summary: The research aims to predict the likelihood of enterprises being classified as "Special Treatment" (ST) in the upcoming quarter using machine learning (ML) and deep learning (DL) techniques. The focus is on enhancing financial distress prediction by incorporating novel indicators beyond traditional metrics.
 
 
 
 tags:
-- Deep learning LSTM+GRU; Risk Management
+- Deep learning 
+- LSTM
+- GRU
+- Risk Management
 
 featured: true
 
