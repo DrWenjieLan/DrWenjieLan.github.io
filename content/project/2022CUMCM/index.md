@@ -6,6 +6,7 @@ tags:
   - Information Source Traceback Algorithm
   - 0-1 Optimization Model
   - Greedy Algorithm
+url_code: https://github.com/YancyLan/-2022CUMCM-B-Mathematics-Modelling
 url_pdf: https://drive.google.com/file/d/1q5-iB5_Q0yjnoDLeUWaJ7PNOU2HZz7UA/view?usp=sharing
 ---
 **Competition:** 2022CUMCM-B-Mathematics-Modelling
