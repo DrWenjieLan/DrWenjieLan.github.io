@@ -5,24 +5,26 @@
 
 main:
   - name: Bio
-    url: '#bio'
+    url: 'https://drwenjielan.github.io/#bio'
     weight: 9
   - name: Reseach Interest
-    url: '#mission'
+    url: 'https://drwenjielan.github.io/#mission'
     weight: 10
   - name: Research
-    url: '#research'
+    url: 'https://drwenjielan.github.io/#research'
     weight: 11    
   - name: Projects
-    url: '#projects'
+    url: 'https://drwenjielan.github.io/#projects'
     weight: 20
   - name: Education & Work
-    url: '#education'
+    url: 'https://drwenjielan.github.io/#education'
     weight: 30
   - name: Skills
-    url: '#skill'
+    url: 'https://drwenjielan.github.io/#skill'
     weight: 50
-
+  - name: Awards
+    url: 'https://drwenjielan.github.io/#awards'
+    weight: 60
 #  - name: Teaching
 #    url: teaching/
 #    weight: 40

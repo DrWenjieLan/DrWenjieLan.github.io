@@ -92,6 +92,7 @@ sections:
   #     title: Awards
   #     username: admin
   - block: resume-awards
+    id: awards
     content:
       title: Awards
       username: admin
