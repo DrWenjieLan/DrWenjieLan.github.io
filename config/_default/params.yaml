@@ -49,7 +49,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-
+    scroll_behavior: "sticky"
 # Site footer
 
 footer:
