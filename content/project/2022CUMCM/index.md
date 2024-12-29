@@ -1,6 +1,6 @@
 ---
 title: 2022CUMCM-B-Mathematics-Modelling
-date: 2023-10-26
+date: 2022-10-26
 tags:
   - UAV Formation
   - Information Source Traceback Algorithm
