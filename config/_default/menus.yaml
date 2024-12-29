@@ -7,7 +7,7 @@ main:
   - name: Bio
     url: '#bio'
     weight: 9
-  - name: Reseach_Interest
+  - name: Reseach Interest
     url: '#mission'
     weight: 10
   - name: Research
@@ -16,12 +16,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: Education
+  - name: Education & Work
     url: '#education'
     weight: 30
-  - name: Experience
-    url: '#work'
-    weight: 40
   - name: Skills
     url: '#skill'
     weight: 50
