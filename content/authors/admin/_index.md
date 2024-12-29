@@ -158,16 +158,18 @@ skills:
         description: ''
         percent: 100
         icon: 🐶
-
-languages:
-  - name: English
-    percent: 90
-  - name: Chinese
-    percent: 100
-  - name: Japanese
-    percent: 25
-  - name: French
-    percent: 10
+  - name: Languages
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: English
+        percent: 90
+      - name: Chinese
+        percent: 100
+      - name: Japanese
+        percent: 25
+      - name: French
+        percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.

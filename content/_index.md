@@ -68,7 +68,7 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: resume-experience
+  - block: resume-education
     id: education
     content:
       title: Education
@@ -102,10 +102,10 @@ sections:
   #   content:
   #     title: Awards
   #     username: admin
-
-  - block: resume-languages
+  - block: resume-awards
     content:
-      title: Languages
+      title: Awards
       username: admin
+
 
 ---
