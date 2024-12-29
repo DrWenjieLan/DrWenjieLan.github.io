@@ -190,16 +190,21 @@ skills:
 awards:
   - title: National Scholarship 2022
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2022'
+    date: '2022-12-30'
     awarder: Ministry of Education of China
   - title: University First Honor Scholarship 2022
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2022'
+    date: '2022-12-30'
     awarder: SWUFE
   - title: University Second Honor Scholarship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    date: '2021-12-30'
+    awarder: SWUFE
+  - title: University Second Honor Scholarship
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-12-30'
     awarder: SWUFE
 
 ---
