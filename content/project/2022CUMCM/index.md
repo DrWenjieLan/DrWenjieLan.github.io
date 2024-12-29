@@ -1,12 +1,12 @@
 ---
 title: 2022CUMCM-B-Mathematics-Modelling
 date: 2023-10-26
-external_link: https://drive.google.com/file/d/1q5-iB5_Q0yjnoDLeUWaJ7PNOU2HZz7UA/view?usp=sharing
 tags:
   - UAV Formation
   - Information Source Traceback Algorithm
   - 0-1 Optimization Model
   - Greedy Algorithm
+url_pdf: https://drive.google.com/file/d/1q5-iB5_Q0yjnoDLeUWaJ7PNOU2HZz7UA/view?usp=sharing
 ---
 **Competition:** 2022CUMCM-B-Mathematics-Modelling
 **Award:** National Second Place

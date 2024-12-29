@@ -1,10 +1,12 @@
 ---
 title: A Synthetical Water Dispatching Model Give it or Give up
 date: 2022-01-26
-external_link: https://drive.google.com/file/d/1AjyUT71oaK3dRCkGMek5OINJll7FmgyN/view?usp=sharing
+
 tags:
   - Muti-interest Tradeoff
   - Dynamic Programming
+url_code: https://github.com/YancyLan/-2022CUMCM-B-Mathematics-Modelling
+url_pdf: https://drive.google.com/file/d/1AjyUT71oaK3dRCkGMek5OINJll7FmgyN/view?usp=sharing
 ---
 **Competition**: Mathematical Contest in Modelling
 **Award**: Finalist (Top: 2\% among 27,205 Teams)
