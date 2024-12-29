@@ -12,7 +12,7 @@ main:
     weight: 10
   - name: Research
     url: '#research'
-    weight: 11
+    weight: 11    
 #  - name: Talks
 #    url: /#talks
 #    weight: 12
