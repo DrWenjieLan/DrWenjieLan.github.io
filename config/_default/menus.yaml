@@ -7,7 +7,7 @@ main:
   - name: Bio
     url: '#bio'
     weight: 9
-  - name: Mission
+  - name: Reseach_Interest
     url: '#mission'
     weight: 10
   - name: Research
@@ -20,17 +20,17 @@ main:
   #   url: /#news
   #   weight: 13
   - name: Projects
-    url: \#projects
+    url: '#projects'
     weight: 12
   - name: Education
-    url: \#education
-    weight: 20
+    url: '#education'
+    weight: 13
   - name: Experience
-    url: \#experience
-    weight: 20
+    url: '#experience'
+    weight: 14
   - name: Skills
-    url: \#skill
-    weight: 20
+    url: '#skill'
+    weight: 15
 
 #  - name: Teaching
 #    url: teaching/
