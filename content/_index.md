@@ -48,7 +48,7 @@ sections:
       columns: '1'
 
   - block: collection
-    id: Research
+    id: research
     content:
       title: Research
       filters:

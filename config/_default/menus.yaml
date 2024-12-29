@@ -5,13 +5,13 @@
 
 main:
   - name: Bio
-    url: /
+    url: '#bio'
     weight: 9
   - name: Mission
     url: '#mission'
     weight: 10
   - name: Research
-    url: /#Research
+    url: '#research'
     weight: 11
 #  - name: Talks
 #    url: /#talks
