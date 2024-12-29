@@ -79,7 +79,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
 
-  - block: resume-experience
+  - block: resume-work
     id: work
     content:
       title: Experience

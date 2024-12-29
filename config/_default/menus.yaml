@@ -20,7 +20,7 @@ main:
     url: '#education'
     weight: 30
   - name: Experience
-    url: '#experience'
+    url: '#work'
     weight: 40
   - name: Skills
     url: '#skill'
