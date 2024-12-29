@@ -113,17 +113,17 @@ work:
     company_logo: ''
     date_start: 2023-02-01
     date_end: 2023-06-30
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Utilized the Wind database and wrote in-depth research reports on companies such as Jiumaojiu International Holdings Limited, etc., and conducted expert interviews to analyze their competitiveness in the industry.
       - Created a grid-based city analysis model to gauge traﬀic and demographic metrics, aiding investors by estimating potential spaces for store count growth based on data collected through Python crawlers.
-    - position: President
+  - position: President
     company_name: IOS Club (Certified by Apple Inc. and SWUFE)
     company_url: 'https://www.fbank.com/'
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-09-01
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Led the iOS Club (certified by Apple Inc. and SWUFE) with over 50 active members, organizing 10+ workshops and hackathons.
       -  Secured partnerships with Apple Inc. and external organizations, enhancing resources and opportunities for members.
