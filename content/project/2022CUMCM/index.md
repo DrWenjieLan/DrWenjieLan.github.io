@@ -10,6 +10,7 @@ tags:
 ---
 **Competition:** 2022CUMCM-B-Mathematics-Modelling
 **Award:** National Second Place
+**Awared by:**China Society for Industrial and Applied Mathematics
 This paper addresses the problem of passive localization and formation adjustment in UAV (Unmanned Aerial Vehicle) formation flying by developing models and innovative algorithms. The main contributions are summarized below:
 
 1. **Problem 1, Subquestion 1**:
