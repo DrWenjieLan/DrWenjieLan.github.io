@@ -101,7 +101,7 @@ work:
     company_url: 'https://www.fbank.com/'
     company_logo: ''
     date_start: 2023-07-01
-    date_end: 2023-09-31
+    date_end: 2023-09-30
     summary: |
       Responsibilities include:
       - Designed a system generating real-time trading strategies based on funding gaps and bank transaction restrictions using the Python DOcplex integer module to address liquidity risk and minimise costs for bank, resulting in nearly 5 million RMB annual savings. (submitted as a patent)
