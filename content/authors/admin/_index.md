@@ -102,7 +102,7 @@ work:
     company_logo: ''
     date_start: 2023-07-01
     date_end: 2023-09-30
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Designed a system generating real-time trading strategies based on funding gaps and bank transaction restrictions using the Python DOcplex integer module to address liquidity risk and minimise costs for bank, resulting in nearly 5 million RMB annual savings. (submitted as a patent)
       - Developed a pricing model for municipal bonds, bolstering trader negotiation capabilities.
@@ -113,7 +113,7 @@ work:
     company_logo: ''
     date_start: 2023-02-01
     date_end: 2023-06-30
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Utilized the Wind database and wrote in-depth research reports on companies such as Jiumaojiu International Holdings Limited, etc., and conducted expert interviews to analyze their competitiveness in the industry.
       - Created a grid-based city analysis model to gauge traﬀic and demographic metrics, aiding investors by estimating potential spaces for store count growth based on data collected through Python crawlers.
@@ -123,7 +123,7 @@ work:
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-09-01
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Led the iOS Club (certified by Apple Inc. and SWUFE) with over 50 active members, organizing 10+ workshops and hackathons.
       -  Secured partnerships with Apple Inc. and external organizations, enhancing resources and opportunities for members.
@@ -188,19 +188,19 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: National Scholarship 2022
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-  - title: Blockchain Fundamentals
+    date: '2022'
+    awarder: Ministry of Education of China
+  - title: University First Honor Scholarship 2022
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-  - title: 'Object-Oriented Programming in R'
+    date: '2022'
+    awarder: SWUFE
+  - title: University Second Honor Scholarship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
-    awarder: datacamp
+    awarder: SWUFE
 
 ---
 
