@@ -68,21 +68,10 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: resume-education
+  - block: resume-experience
     id: education
     content:
-      title: Education
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-
-  - block: resume-work
-    id: work
-    content:
-      title: Experience
+      title: Education & Work
       username: admin
     design:
       # Hugo date format
@@ -93,7 +82,7 @@ sections:
   - block: resume-skills
     id: skill
     content:
-      title: Skills & Hobbies
+      title: Skills & Hobbies & Languages
       username: admin
     design:
       show_skill_percentage: false
