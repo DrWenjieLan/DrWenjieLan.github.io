@@ -30,8 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'wenjielan2022@outlook.com'
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:wenjie.lan@duke.edu
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/lan_wenjie1567
@@ -62,50 +63,60 @@ education:
 #      url: 'https://example.com'
   - area: MS Statistics
     institution: Duke University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-08-12
+    date_end: 2026-06-01
     summary: |
       GPA: 4.0/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Predictive Modeling (A)
+      - Statistics Programming (A)
+      - Theory of Inference (A)
   - area: BS Financial Technology
     institution: Southwestern University of Finance and Economics
     date_start: 2020-09-01
     date_end: 2024-06-01
     summary: |
-      GPA: 4.1/5.0
+      GPA: 4.1/5.0 (1/30)
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Math: Financial Stochastic Analysis; Multivariate Statistical Analysis; Probability and Mathematical Statistics; Discrete Mathematics; Optimization Theory; Advanced Algebra Ⅱ & Ⅰ; Mathematical Analysis Ⅱ & Ⅰ
+      - Programming and Algorithm: Foundation of Programming(C&C++);  Data Structures; Machine Learning; Deep Learning; Fintech; Financial Big Data Analysis;  Big Data Processing; Database Theories and Application
+      - Finance: Microeconomics; Macroeconomics; Political Economics; Accounting; Monetary Finance; Corporate Finance;  Financial Econometrics I (linear regression) & Ⅱ (time series); Investments; Fixed Income Securities; Financial Risk Management; Financial Stochastic Analysis
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Quantitative Research Intern
+    company_name: BlackWing Asset Management Co., Limited
+    company_url: 'https://www.blackwingasset.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-02-01
+    date_end: 2024-07-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Developed an automated stock data pipeline using Python to scrape stock codes and real-time data from the Shanghai Stock Exchange, and store it in an SQL database for continuous updates
+      - Constructed high-frequency (tick-level) price-volume factors, achieving weekly annualized long-short Sharpe ratios $>$5.0 and long-only information ratios $>$3.0, with 30\% of factors demonstrating monthly IC averages $>$5\% and ICIR $>$0.65.
+      - Drafted a comprehensive factor construction manual, compiled outlier values, and developed methodologies for factor refinement and optimization.
+  - position: Quantitative Research Intern, Financial Markets Department
+    company_name: Chongqing Fumin Bank Co.,Ltd.
+    company_url: 'https://www.fbank.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-07-01
+    date_end: 2023-09-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Designed a system generating real-time trading strategies based on funding gaps and bank transaction restrictions using the Python DOcplex integer module to address liquidity risk and minimise costs for bank, resulting in nearly 5 million RMB annual savings. (submitted as a patent)
+      - Developed a pricing model for municipal bonds, bolstering trader negotiation capabilities.
+      - Constructed corporate credit rating models based on meachine learning models (xgboost et.).
+  - position: Analyst Intern, Social Services and Food Research Group
+    company_name: Orient Securities Co., Ltd.
+    company_url: 'https://www.fbank.com/'
+    company_logo: ''
+    date_start: 2023-02-01
+    date_end: 2023-06-31
+    summary: |
+      Responsibilities include:
+      - Utilized the Wind database and wrote in-depth research reports on companies such as Jiumaojiu International Holdings Limited, etc., and conducted expert interviews to analyze their competitiveness in the industry.
+      - Created a grid-based city analysis model to gauge traﬀic and demographic metrics, aiding investors by estimating potential spaces for store count growth based on data collected through Python crawlers.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -155,7 +166,7 @@ languages:
     percent: 100
   - name: Japanese
     percent: 25
-  - name: France
+  - name: French
     percent: 10
 
 # Awards.

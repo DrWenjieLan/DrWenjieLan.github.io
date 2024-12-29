@@ -58,7 +58,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-      
+
   - block: portfolio
     id: projects
     content:
@@ -88,8 +88,20 @@ sections:
       flip_alt_rows: false
 
   - block: resume-experience
-    id: experience
+    id: education
     content:
+      title: Education
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+      
+  - block: resume-experience
+    id: work
+    content:
+      title: Experience
       username: admin
     design:
       # Hugo date format
