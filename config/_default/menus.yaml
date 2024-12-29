@@ -3,27 +3,28 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+
 main:
   - name: Bio
-    url: '#bio'
+    url: '/#bio' # 使用绝对路径
     weight: 10
-  - name: Reseach Interest
-    url: '#mission'
+  - name: Research Interest
+    url: '/#mission'
     weight: 11
   - name: Research
-    url: '#research'
+    url: '/#research'
     weight: 15    
   - name: Projects
-    url: '#projects'
+    url: '/#projects'
     weight: 20
   - name: Education & Work
-    url: '#education'
+    url: '/#education'
     weight: 25
   - name: Skills
-    url: '#skill'
+    url: '/#skill'
     weight: 30
   - name: Awards
-    url: '#awards'
+    url: '/#awards'
     weight: 35
 #  - name: Teaching
 #    url: teaching/
