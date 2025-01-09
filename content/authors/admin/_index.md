@@ -69,9 +69,9 @@ education:
       GPA: 4.0/4.0
 
       Courses included:
-      - Predictive Modeling (A)
-      - Statistics Programming (A)
-      - Theory of Inference (A)
+      - Predictive Modeling (A); Statistics Programming (A); Theory of Inference (A)
+      Courses (in progress):
+      - Real Analysis 1; Bayesian Statistics Modeling; Numeric Analysis; Mixing Times for Markov Chains
   - area: BS Financial Technology
     institution: Southwestern University of Finance and Economics
     date_start: 2020-09-01
