@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student in Stats Department in Duke University
+role: Master Student in Statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
