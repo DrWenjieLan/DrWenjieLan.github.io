@@ -70,6 +70,7 @@ education:
 
       Courses included:
       - Predictive Modeling (A); Statistics Programming (A); Theory of Inference (A)
+      
       Courses (in progress):
       - Real Analysis 1; Bayesian Statistics Modeling; Numeric Analysis; Mixing Times for Markov Chains
   - area: BS Financial Technology
