@@ -70,7 +70,7 @@ education:
 
       Courses included:
       - Predictive Modeling (A); Statistics Programming (A); Theory of Inference (A)
-      
+
       Courses (in progress):
       - Real Analysis 1; Bayesian Statistics Modeling; Numeric Analysis; Mixing Times for Markov Chains
   - area: BS Financial Technology
@@ -78,7 +78,7 @@ education:
     date_start: 2020-09-01
     date_end: 2024-06-01
     summary: |
-      GPA: 4.1/5.0 (1/30)
+      GPA: 4.1/5.0 (Top 5%)
       
       Courses included:
       - Math: Financial Stochastic Analysis; Multivariate Statistical Analysis; Probability and Mathematical Statistics; Discrete Mathematics; Optimization Theory; Advanced Algebra Ⅱ & Ⅰ; Mathematical Analysis Ⅱ & Ⅰ
