@@ -48,8 +48,8 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
-  - Bayesian time series
-  - Bayesian game
+  - High-dimensional Data
+  - Statistical Computing
   - Data Privacy
   - Quantitative Finance
 
@@ -179,8 +179,7 @@ skills:
         percent: 100
       - name: Japanese
         percent: 25
-      - name: French
-        percent: 10
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -213,10 +212,10 @@ awards:
 
 ## About Me
 
-**Wenjie Lan** is a Master of Science student in Statistics at Duke University. She holds a Bachelor of Science degree in Financial Technology from the Southwestern University of Finance and Economics. Wenjie's academic and research interests span Bayesian time series analysis, the Bayes-Nash Equilibrium (integrating Bayesian methodology and game theory), and data privacy.
+**Wenjie Lan** is a Master of Science student in Statistics at Duke University. She holds a Bachelor of Science degree in Financial Technology from the Southwestern University of Finance and Economics. Wenjie's academic and research interests includes stats diagnosis, high-dimensional data and data privacy.
 
-During her undergraduate studies, Wenjie conducted research across two primary tracks. The first focused on applying machine learning and deep learning techniques to assess and predict risk, including credit risk, the probability of financial distress in institutions, and statistical measures such as CoES to identify systemic risks among entities. The second track was more diverse, where she leveraged advanced methodologies to tackle complex problems encountered during internships and project work. Key projects include optimizing bank position management using advanced optimization methods (2023), fine-tuning the FinBERT model for sentiment classification in the stock market (2022), constructing high-frequency factors with signal processing techniques (2024), and developing data privacy solutions for large language models (LLMs) in finance (2024–present).
+During her undergraduate studies, Wenjie conducted research across two primary tracks. The first focused on applying machine learning and deep learning techniques to assess and predict risk, including credit risk prediction (Machine Learning Competitions)(2022; 2023), the probability of financial distress in institutions (GCN+LSTM) (summer research)(2022), and statistical measures such as CoES to identify systemic risks among entities(independent study)(2023). The second track was more diverse, where she leveraged advanced methodologies to tackle complex problems encountered during internships and project work. Key projects include optimizing bank position management using advanced optimization methods(internship project, patent) (2023), fine-tuning the FinBERT model for sentiment classification in the stock market(summer research) (2022), constructing high-frequency factors with signal processing techniques (internship project) (2024), and developing data privacy solutions for large language models (LLMs) in finance (research assistant)(2024).
 
 ### Technical Skills：
-- Programming Languages: Python (Pandas, NumPy, Dask, Scikit-learn, PyTorch), R (dplyr, tidyr, tidymodels, sf, shiny), SQL, C++
+- Programming Languages: Python (Pandas, NumPy, Dask, Scikit-learn, PyTorch), R (dplyr, tidyr, tidymodels, sf, shiny), SQL, C&C++
 - Key Areas of Expertise: Machine Learning, Statistics Analysis, Deep Learning, Signal Processing (for high-frequency factors construction), Optimization
