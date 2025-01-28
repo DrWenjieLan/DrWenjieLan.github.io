@@ -221,4 +221,4 @@ During her undergraduate studies, Wenjie conducted research across two primary t
 
 ### Technical Skills：
 - Programming Languages: Python (Pandas, NumPy, Dask, Scikit-learn, PyTorch), R (dplyr, tidyr, tidymodels, sf, shiny), SQL, C&C++
-- Key Areas of Expertise: Machine Learning, Statistics Computing, Deep Learning, Signal Processing, Optimization
+- Key Areas of Expertise: Machine Learning, Deep Learning, Statistical inference, Data privacy
