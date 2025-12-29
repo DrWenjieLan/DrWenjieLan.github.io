@@ -215,14 +215,14 @@ awards:
 
 **Wenjie Lan** is a Master of Science student in Statistics at Duke University. She holds a Bachelor of Science degree in Financial Technology from the Southwestern University of Finance and Economics. Wenjie's academic and research interests includes data privacy, probabilistic Machine Learning, and bayesian Statistics.
 
-Check my online CV: https://www.overleaf.com/read/whhvmfkhzccj#33418f
+Check my online CV for the most recent update: https://www.overleaf.com/read/whhvmfkhzccj#33418f
 
-During her master's studies, Wenjie's research focuses on differential privacy, probabilistic machine learning, and Bayesian statistics. Her summer research (2025) on differential privacy computation for the Gini Index is under the supervision of Professor Jerome Reiter. Her ongoing project (2025-2026) is on the Hierarchical Conditional Diffusion model, under the guidance of Professors Jerome Reiter and David Dunson.
+During her master’s studies, Wenjie’s research focuses on differential privacy, probabilistic machine learning, and Bayesian statistics. Her summer 2025 research on differential privacy computation for the Gini Index is under the supervision of Prof. Jerome Reiter. Her ongoing 2025–2026 project examines the Hierarchical Conditional Diffusion model, under the guidance of Prof. Jerome Reiter and Prof. David Dunson.
 
-During her undergraduate studies, Wenjie conducted research across two primary tracks. The first focused on applying machine learning and deep learning techniques to assess and predict risk, including credit risk prediction (Machine Learning Competitions)(2022; 2023), the probability of financial distress in institutions (GCN+LSTM) (summer research)(2022), and statistical measures such as CoES to identify systemic risks among entities(independent study)(2023). The second track was more diverse, where she leveraged advanced methodologies to tackle complex problems encountered during internships and project work. Key projects include optimizing bank position management using advanced optimization methods(internship project, patent) (2023), constructing high-frequency factors with signal processing techniques (internship project) (2024), and developing data privacy solutions in finance (research assistant)(2024).
+During her undergraduate studies, Wenjie explored two main research tracks: (1) machine learning for risk assessment and prediction (credit risk prediction in ML competitions, 2022–2023; financial distress prediction using GCN+LSTM, summer 2022; systemic risk measurement using CoES, independent study 2023) and (2) applied methods for internship and project problems (bank position management optimization, internship project/patent 2023; high-frequency factor construction via signal processing, internship project 2024; privacy-preserving finance via federated learning, research assistant 2024).
 
 Most importantly, she is grateful to her advisors, collaborators, and friends for their guidance and support.
 
 ### Technical Skills：
 - Programming Languages: Python (Pandas, NumPy, Dask, Scikit-learn, PyTorch), R (dplyr, tidyr, tidymodels, sf, shiny), SQL, C&C++
-- Key Areas of Expertise: Machine Learning, Deep Learning, Statistical inference, Data privacy
+- Key Areas of Expertise: Probabilistic Machine Learning, Data privacy, Bayesian Statistics
