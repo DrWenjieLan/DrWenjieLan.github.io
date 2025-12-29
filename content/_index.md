@@ -39,7 +39,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My current research interest include High-dimensional Data, Data privacy and Statistical Computing.
+        My current research interest include Data privacy, probabilistic machine learning, and Bayesian statistics.
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
