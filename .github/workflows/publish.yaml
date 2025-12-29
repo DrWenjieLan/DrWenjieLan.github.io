@@ -1,7 +1,8 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.136.5'
+  # Use the current Hugo release; set to a specific version if you prefer pinned releases
+  WC_HUGO_VERSION: 'latest'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
